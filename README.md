@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ingodwetryst
-- 👀 I’m interested in building and hosting websites
-- 🌱 I’m currently learning updates to most of my core skills
-- 💞️ I’m looking to collaborate on building an ad website someday
-- 🕵️‍♀️ How to find me - links.treatyoself.ch
-- 💌 Social media - twitter, bluesky, tumblr, reddit.  Instagram as missymariposa.
+- Hi, I’m Mel
+- I build shit.  Sometimes it's cool.
+- 🕵️‍♀️ How to find me - come.redefine.luxury
+- 💌 Social media - bluesky, reddit, twitter, instagram
 <!---
-don't look at me
+don't look at me im shy
 --->
